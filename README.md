@@ -6,6 +6,7 @@
 
 ### Install dependencies
 > npm init
+
 > npm yarn
 
 ### Installation of Cypress
